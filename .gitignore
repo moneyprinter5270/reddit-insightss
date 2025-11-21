@@ -1,0 +1,6 @@
+backend/
+backend-fastapi/
+node_modules/
+index.js
+package.json
+package-lock.json
